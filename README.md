@@ -10,6 +10,9 @@ tab. The console's browser runs it from `http://localhost:8080`, which
 > [!NOTE]
 > FreeTV is geo-locked to Israel. The console needs an Israeli IP.
 
+How this was built, and how to port the next app the same way:
+[PS5-APP-PORTING-PLAYBOOK.md](PS5-APP-PORTING-PLAYBOOK.md).
+
 ## What works
 
 - **Home**: the same rows as the FreeTV home page. That covers channels,
