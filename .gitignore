@@ -1,0 +1,6 @@
+# Build outputs: `make` regenerates them.
+freetv-install.elf
+webapp/config.js
+
+.DS_Store
+__pycache__/
