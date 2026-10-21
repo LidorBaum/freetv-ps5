@@ -4,3 +4,6 @@ webapp/config.js
 
 .DS_Store
 __pycache__/
+
+# Local-only notes: sensitive details kept out of the public repo.
+PRIVATE.md
